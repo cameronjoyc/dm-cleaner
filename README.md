@@ -1,0 +1,1 @@
+deletes messages in dmsv
